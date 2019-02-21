@@ -13,7 +13,7 @@ class App extends Component {
           </nav>
           <div className="welcome">
             <div className="intro">
-              <h1>Say hello to React.JS</h1>
+              <h1>Say hello to ReactJS</h1>
               <p className="summary">
                 You will learn a Frontend framework from scratch, to become a
                 Ninja Developer.
